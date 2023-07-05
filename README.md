@@ -1,10 +1,11 @@
-### Hello World 👋
+### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Andrzej and I'm based in Wrocław, Poland. I am currently working towards becoming a Junior .NET/C# Developer.
 
-👀 I’m interested in .NET and web technology.
-🌱 I am currently using my free time to expand my knowledge and skills in programming.
-📫 You can find me on [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/andrzej-połeć)
+- 👀 I’m interested in .NET and web technology.
+- 🌱 I am currently using my free time to expand my knowledge and skills in programming.
+- 📫 You can find me on  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/andrzej-połeć)
+
 
 <!--
 **AndPolec/AndPolec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
