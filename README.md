@@ -4,9 +4,9 @@ My name is Andrzej and I'm based in Wrocław, Poland. I am currently working tow
 
 - 👀 I’m interested in .NET and web technology.
 - 🌱 I am currently using my free time to expand my knowledge and skills in programming.
-- 📫 You can find me on  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/andrzej-połeć)
+- 📫 You can find me on  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn][1]
 
-
+[1]: https://www.linkedin.com/in/andrzej-po%C5%82e%C4%87/
 <!--
 **AndPolec/AndPolec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
