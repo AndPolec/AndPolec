@@ -1,6 +1,6 @@
 ### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Andrzej and I'm based in Wrocław, Poland. I am currently working towards becoming a Junior .NET/C# Developer.
+My name is Andrzej and I'm based in Wrocław, Poland. 
 
 - 👀 I’m interested in .NET and web technology.
 - 🌱 I am currently using my free time to expand my knowledge and skills in programming.
