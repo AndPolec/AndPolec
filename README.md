@@ -10,6 +10,4 @@ I'm **Andrzej** – a .NET Developer based in **Wrocław, Poland**.
 
 📫 Let’s connect on [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn][1]
 
----
-
 [1]: https://www.linkedin.com/in/andrzej-polec/
